@@ -54,7 +54,7 @@ The website follows a structured development approach emphasizing:
 
 ## Testing
 Testing was implemented to verify application correctness and reliability:
-- Framework: Jasmine
+- Framework: [Jasmine](https://jasmine.github.io/)
 - Unit Tests & Integration Tests
 - Spies & Mocking using ```spyOn()``` for localStorage & API functions
 - Testing async behavior using Jasmine’s done callback
