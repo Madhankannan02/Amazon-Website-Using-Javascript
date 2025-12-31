@@ -1,3 +1,5 @@
+![HTML](https://img.shields.io/badge/html-272727?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-green?style=for-the-badge) ![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge) ![Jasmine](https://img.shields.io/badge/jasmine-46CA62?style=for-the-badge)
+
 # Amazon Clone Website — JavaScript, HTML, and CSS
 A fully interactive Amazon-style ecommerce website built using pure JavaScript, without any frameworks. This project demonstrates real-world web development practices including DOM manipulation, state management, modular code architecture, OOP principles, asynchronous operations, and automated testing using Jasmine.
 
