@@ -72,7 +72,7 @@ Since this is a frontend-only project, simply open the main HTML file:
 ```bash
 index.html
 ```
-No server required.
+No separate server required.
 
 ## Future Enhancements
 
